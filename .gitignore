@@ -1,0 +1,5 @@
+corpus/reposAll.jsonl
+corpus/reposVal.jsonl
+corpus/reposTrain.jsonl
+corpus/edgelist.csv
+**/.ipynb_checkpoints/**
